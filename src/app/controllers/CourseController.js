@@ -59,4 +59,5 @@ forceDestroy(req, res, next){
   }
 }
 
+console.log('tets')
 module.exports = new CoursesController();
